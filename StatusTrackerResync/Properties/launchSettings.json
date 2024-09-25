@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StatusTrackerResync": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
